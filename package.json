@@ -1,0 +1,15 @@
+{
+  "name": "solar-presence-client",
+  "version": "1.0.0",
+  "description": "Multiplayer shooter",
+  "main": "index.js",
+  "repository": "https://github.com/userotti/solar-presence-client",
+  "author": "Christian Frauenstein <cfrauenstein@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^1.0.3"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
